@@ -38,5 +38,5 @@ This HR Analytics Dashboard transforms raw HR data into actionable insights for 
 
 ---
 
-## Recommended Repository Structure
+
 
